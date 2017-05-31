@@ -1,6 +1,4 @@
-###################
-Introduction
-###################
+#Introduction
 
 Operation of the application:
 
