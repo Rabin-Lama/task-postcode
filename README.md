@@ -35,4 +35,5 @@ Instructions to use
 
 Copy the folder to your htdocs. And, import the "task.sql" in phpmyadmin.
 
+
 Note: Css and scripts are directly loaded from their websites. Thus, internet connection is required.
