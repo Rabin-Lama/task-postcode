@@ -1,4 +1,5 @@
-##Introduction
+Introduction
+*******************
 
 Operation of the application:
 
@@ -17,21 +18,20 @@ Operation of the application:
 -> The user selects the city in the list and submit the form.
 
 -> The application then displays a result screen which indicates the selected postcode and the selected city.
+*******************
 
-*******************
 Database info
-*******************
 
 username: root
 password: rabin
 database: task_postcode
 dbdriver: mysqli
+*******************
 
-**************************
 Instructions to use
-**************************
 
 Copy the folder to your htdocs. And, import the "task.sql" in phpmyadmin.
+*******************
 
 
 Note: Css and scripts are directly loaded from their websites. Thus, internet connection is required.
