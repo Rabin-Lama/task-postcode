@@ -14,7 +14,7 @@ class Welcome extends CI_Controller {
 	}
 
 	public function read_postcode() {
-		$q=$_REQUEST["q"];
+	    $q = $_REQUEST["q"];
 
 	    $result = $this->city->select_where($q);
 
